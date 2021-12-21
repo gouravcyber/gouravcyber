@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gourav Das
 - 👀 I’m interested in Python related projects
-- 🌱 I’m currently learning Machine Learning and Android Dev.
+- 🌱 I’m currently learning Machine Learning and Backend Development.
 - 📫 How to reach me :gourav2001das@gmail.com
 
 <!---
